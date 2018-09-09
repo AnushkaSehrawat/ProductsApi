@@ -1,0 +1,11 @@
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\ProductDataLibrary.dll.config
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\ProductDataLibrary.dll
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\ProductDataLibrary.pdb
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\EntityFramework.dll
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\EntityFramework.xml
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\obj\Debug\ProductDataLibrary.csprojResolveAssemblyReference.cache
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\obj\Debug\ProductDataLibrary.csproj.CoreCompileInputs.cache
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\obj\Debug\ProductDataLibrary.dll
+c:\users\asehrawat\source\repos\ProductTypeServices\ProductDataLibrary\obj\Debug\ProductDataLibrary.pdb
